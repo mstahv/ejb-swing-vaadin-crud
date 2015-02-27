@@ -46,13 +46,13 @@
             </plugin>
         </plugins>
     </build>
-    
     <repositories>
         <repository>
             <id>vaadin-addons</id>
             <url>http://maven.vaadin.com/vaadin-addons</url>
         </repository>
     </repositories>
+
     <dependencies>
         <dependency>
             <groupId>org.vaadin</groupId>
